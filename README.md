@@ -4,7 +4,7 @@
 #### this is a quartiary heading
 ##### this is a quintiary heading
 ###### this is sextiary heading
-####### this is a septiary heading
+####### this was supposed to be a septiary heading, but apprently 6 levels is all you get.  
 
 
 * first item in the list
